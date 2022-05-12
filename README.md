@@ -3,7 +3,7 @@ Juck Norries Jokes API to fetch Data and create pagination
 
 *DESCRIPTION*
 
-This project uses the public API Chuck Norris Jokes  https://api.chucknorris.io/jokes/ to fetch data to a Reac application. It uses pagination. 
+This project uses the public API Chuck Norris Jokes  https://api.chucknorris.io/jokes/ to fetch data to a React application. It uses pagination. 
 
 *How to Run*
 
